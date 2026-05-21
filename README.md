@@ -1,2 +1,1 @@
-# jeju-trip-may-2026-v2
-Jeju Island 5-day itinerary web app.
+Stable version: Firebase checklist sync working. Firestore Rules updated. Date: 2026-05-21.
